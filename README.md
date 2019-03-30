@@ -18,3 +18,4 @@ To install this script you need to follow all of steps below here:
 4. fill all fields in your install steps
 5. complete and enjoy what you have just done
 6. thank you for your 
+You can follow this link to watch how to install scripts: updating...
