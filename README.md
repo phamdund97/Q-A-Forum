@@ -17,5 +17,5 @@ To install this script you need to follow all of steps below here:
 3. access follow link : http://www.yourdomain.com/, change yourdomain to your domain name which you had
 4. fill all fields in your install steps
 5. complete and enjoy what you have just done
-6. thank you for your 
+6. thank you for your installed
 You can follow this link to watch how to install scripts: updating...
