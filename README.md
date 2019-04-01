@@ -19,3 +19,5 @@ To install this script you need to follow all of steps below here:
 5. complete and enjoy what you have just done
 6. thank you for your installed
 You can follow this link to watch how to install scripts: updating...
+# Demo
+You can get demo in this link: http://qa.pomelonow.com/
